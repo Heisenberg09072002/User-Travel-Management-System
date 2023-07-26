@@ -21,8 +21,6 @@ USER CAN CREATE TRAVEL REQUEST -
 USER CAN VIEW THE CREATED TRAVEL REQUESTS LIST ON THIS PAGE -
 ![image](https://github.com/Heisenberg09072002/User-Travel-Management-System/assets/85013676/e47302cc-54cb-4746-8ea6-915c34818b45)
 
-USER CAN VIEW ALL THE DEATILS AT THIS PAGE AND CAN ONLY VIEW THE DETAILS CREATED BY HIM/HER -
-![image](https://github.com/Heisenberg09072002/User-Travel-Management-System/assets/85013676/e73eafe6-1d4b-47b6-a106-a7052cdb37ec)
 
 
 
